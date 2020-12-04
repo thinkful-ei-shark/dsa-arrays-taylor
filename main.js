@@ -14,6 +14,17 @@ function main() {
   arr.push(45);
   arr.push(10);
 
+  arr.pop();
+  arr.pop();
+  arr.pop();
+  arr.pop();
+
+  console.log(arr.get(0));
+
+  arr = [];
+
+  arr.push('tauhida');
+
   console.log(arr);
 }
 

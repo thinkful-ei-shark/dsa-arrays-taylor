@@ -1,0 +1,50 @@
+1. DONE
+
+2. What is the length, capacity, and memory address of your array?
+        length: 1, _capacity: 3, ptr: 0
+   Add the following in the main function and then print the array:
+        length: 6, _capacity: 12, ptr: 3
+            * the length was increased based on how many items were pushed
+            * the capacity increased 4x
+            * the ptr increased by 3
+                * the capacity increases if the length gets higher than the capacity
+                    to make more room for more data
+            
+3. What is the length, capacity, and address of your array? Explain the 
+   result of your program after adding the new lines of code.
+
+    * length decreased when data was removed 
+    * capacity was dropped when length goes below the capacity
+    * the ptr changed.
+
+4. Print the 1st item in the array arr;
+    DONE
+   Empty the array and add just 1 item.
+    DONE
+   Print the 1 item that you just added. What is the result? Can you Explain
+    your result.
+
+   What is the purpose of the resize function in your Array class?
+    to resize the amount of space in memory. 
+
+5. URLify a string
+    DONE
+
+6. Filtering an array
+    DONE 
+
+7. Max sum in the array
+    DONE
+
+8. Merge Arrays
+    DONE
+
+9. Remove Characters
+    DONE
+
+10. 
+
+
+
+
+

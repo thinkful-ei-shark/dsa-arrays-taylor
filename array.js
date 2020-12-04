@@ -62,7 +62,6 @@ class Array {
     this.length--;
   }
 }
-console.log(Memory);
 
 Array.SIZE_RATIO = 3;
 
